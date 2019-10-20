@@ -1,0 +1,1 @@
+This is just a simple project that was meant to help better understand the Bitmap file format without being over complicated.
