@@ -1,1 +1,1 @@
-g++ -O3 -o bitmap Source.cpp libs/FastNoise/FastNoise.cpp -I libs/FastNoise/
+g++ -O3 -o Bitmap -I libs/FastNoise/ libs/FastNoise/FastNoise.cpp Bitmap.cpp Source.cpp
