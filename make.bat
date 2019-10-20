@@ -1,1 +1,1 @@
-cl.exe /O2 Source.cpp /I libs/FastNoise/ libs/FastNoise/FastNoise.cpp
+cl.exe /O2 Source.cpp Bitmap.cpp /I libs/FastNoise/ libs/FastNoise/FastNoise.cpp
