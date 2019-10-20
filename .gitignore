@@ -1,2 +1,10 @@
 bitmap
 image.bmp
+.vscode/c_cpp_properties.json
+.vscode/tasks.json
+vc140.pdb
+FastNoise.obj
+Source.exe
+Source.obj
+.vscode/settings.json
+.vscode/launch.json
