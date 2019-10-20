@@ -1,1 +1,1 @@
-This is just a simple project that was meant to help better understand the Bitmap file format without being over complicated.
+This is just a simple project that was meant to help better understand the Bitmap file format without being over complicated. It makes use of the Fast Noise library to help visualize the image data instead of using normal randomized noise.
