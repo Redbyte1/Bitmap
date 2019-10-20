@@ -13,8 +13,17 @@ int main(int argc, char* argv[])
 	}
 	else
 	{
-		Bitmap image(1920, 1080, modeType::Noise);
+		Bitmap image(1920, 1080, std::string("image.bmp"), modeType::Noise);
 		image.writeBitmap();
+
+		//do this for frames
+		// std::string filename("image");
+		// for (int z = 0; z < 10; z++)
+		// {
+		// 	Bitmap image(1920, 1080, z, 1, filename + std::to_string(z) + std::string(".bmp"), modeType::Noise);
+		// 	image.writeBitmap();
+		// }
+		
 	}
 	return 0;
 }
