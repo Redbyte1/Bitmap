@@ -1,4 +1,4 @@
-#include "bitmap.h"
+#include "Bitmap.h"
 
 int main(int argc, char* argv[])
 {
